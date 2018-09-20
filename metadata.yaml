@@ -1,0 +1,34 @@
+_repo: St-Paul-the-Hero_52694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Rufus M. (Rufus Matthew)
+    alias: Jones, Rufus Matthew
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '6478'
+    url: http://www.gutenberg.org/2009/agents/6478
+    wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
+description: ''
+gutenberg_issued: '2016-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apostles -- Biography -- Juvenile literature'
+- !lcc 'BS'
+- !lcsh 'Paul, the Apostle, Saint -- Juvenile literature'
+- GITenberg
+tableOfContents: The boy of ten years -- His heroes -- In Jerusalem -- In Rabbi Gamaliel's
+  school -- Tent-making in Tarsus -- The great teacher of Galilee -- In Jerusalem
+  again -- The man with a shining face -- On the road to Damascus -- In Arabia --
+  Fifteen wonderful days -- The first great missionary journey -- The first great
+  problem -- A letter to his churches -- "Come over into Macedonia and help us" --
+  Alone in Athens -- Corinth and Ephesus -- "Ready to be bound" -- In the prison at
+  Caesarea -- The stormy journey to Rome -- The triumph of the hero.
+title: St. Paul the Hero
+url: http://www.gutenberg.org/ebooks/52694
